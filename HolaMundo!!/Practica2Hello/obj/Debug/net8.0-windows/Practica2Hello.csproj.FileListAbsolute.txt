@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\bin\Debug\net8.0-windows\Practica2Hello.exe
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\bin\Debug\net8.0-windows\Practica2Hello.deps.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\bin\Debug\net8.0-windows\Practica2Hello.runtimeconfig.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\bin\Debug\net8.0-windows\Practica2Hello.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\bin\Debug\net8.0-windows\Practica2Hello.pdb
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.Form1.resources
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.AssemblyInfo.cs
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.sourcelink.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\refint\Practica2Hello.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.pdb
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\Practica2Hello.genruntimeconfig.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\HolaMundo!!\Practica2Hello\obj\Debug\net8.0-windows\ref\Practica2Hello.dll
